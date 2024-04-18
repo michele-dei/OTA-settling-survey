@@ -1,7 +1,5 @@
 # OTA-settling-survey
-OTA settling survey: state-of-the-art operational transconductance amplifiers (OTAs) designed for fast settling Switched-Capacitors circuits.
-
-Certainly! Here's the revised text for inclusion in your GitHub README:
+OTA settling survey: state-of-the-art operational transconductance amplifiers (OTAs) designed for fast settling Switched-Capacitors circuits. Please find a comprehensive review in Dei, Michele, Francesco Gagliardi, and Paolo Bruschi. 2024. *"Slew-Rate Enhancement Techniques for Switched-Capacitors Fast-Settling Amplifiers: A Review"* Chips 3, no. 2: 98-128. [https://doi.org/10.3390/chips3020005].
 
 ## Project Overview
 
