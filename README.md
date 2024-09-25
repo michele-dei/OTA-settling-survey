@@ -32,5 +32,3 @@ We value feedback and suggestions from users of the database. If you have ideas 
 To provide feedback or suggestions, please open an **issue** on GitHub or reach out to us directly.
 
 ---
-
-Feel free to customize the text further to align with the specific details and goals of your project.
